@@ -1,0 +1,12 @@
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\bin\Release\netcoreapp3.1\MouseMover.exe
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\bin\Release\netcoreapp3.1\MouseMover.deps.json
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\bin\Release\netcoreapp3.1\MouseMover.runtimeconfig.json
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\bin\Release\netcoreapp3.1\MouseMover.runtimeconfig.dev.json
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\bin\Release\netcoreapp3.1\MouseMover.dll
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\bin\Release\netcoreapp3.1\MouseMover.pdb
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\obj\Release\netcoreapp3.1\MouseMover.AssemblyInfoInputs.cache
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\obj\Release\netcoreapp3.1\MouseMover.AssemblyInfo.cs
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\obj\Release\netcoreapp3.1\MouseMover.csproj.CoreCompileInputs.cache
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\obj\Release\netcoreapp3.1\MouseMover.dll
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\obj\Release\netcoreapp3.1\MouseMover.pdb
+C:\Users\nilton.nascimento\source\repos\MouseMover\MouseMover\obj\Release\netcoreapp3.1\MouseMover.genruntimeconfig.cache
